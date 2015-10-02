@@ -12,6 +12,11 @@
     "config": {
         "vendor-dir": "/app/Models/"
     },
+    "autoload": {
+        "psr-4": {
+            "Gamification\\": "src"
+        }
+    },
     "repositories": [
         {
             "type": "vcs",
