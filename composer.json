@@ -1,0 +1,14 @@
+{
+    "name": "vendor/test_composer",
+    "description": "test para composer",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ezequiel Carro",
+            "email": "ezequielcarrosalle@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
