@@ -1,5 +1,5 @@
 {
-    "name": "vendor/test_composer",
+    "name": "ezequielcarrosalle/test_composer",
     "description": "test para composer",
     "type": "library",
     "license": "MIT",
@@ -7,6 +7,15 @@
         {
             "name": "Ezequiel Carro",
             "email": "ezequielcarrosalle@gmail.com"
+        }
+    ],
+    "config": {
+        "vendor-dir": "/app/Models/"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/ezequielcarrotower/test_composer.git"
         }
     ],
     "minimum-stability": "beta",
